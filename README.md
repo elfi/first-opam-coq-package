@@ -1,1 +1,1 @@
-First opam coq package
+First opam coq package.
